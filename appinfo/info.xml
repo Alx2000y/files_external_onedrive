@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<info>
+    <id>files_external_onedrive</id>
+    <name>External Storage: OneDrive</name>
+    <description>
+    </description>
+    <summary>Integrate OneDrive as an external storage</summary>
+    <licence>GPLv2</licence>
+    <author>Alexey Sadkov</author>
+    <version>1.0.0</version>
+    <category>storage</category>
+    <documentation>
+    	<user>https://github.com/alx2000y/files_external_onedrive/</user>
+	<admin>https://github.com/alx2000y/files_external_onedrive/</admin>
+    </documentation>
+    <screenshot>https://raw.githubusercontent.com/alx2000y/screenshots/master/files_external_onedrive/owncloud-app-external-storage-onedrive.jpg</screenshot>
+    <types>
+        <filesystem/>
+    </types>
+
+    <dependencies>
+        <owncloud min-version="10.0" max-version="10.0"/>
+    </dependencies>
+    <website>https://github.com/alx2000y/files_external_onedrive/</website>
+    <bugs>https://github.com/alx2000y/files_external_onedrive/issues</bugs>
+    <repository type="git">https://github.com/alx2000y/files_external_onedrive.git</repository>
+</info>
